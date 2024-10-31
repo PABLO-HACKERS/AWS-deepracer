@@ -1,4 +1,3 @@
 # AWS-deepracer
 
-![Us after winning hackathon:](https://www.google.com/search?sca_esv=811d106c3f469370&rlz=1C1ONGR_enCA1093CA1093&sxsrf=ADLYWIL74fBXHo6AkFVL56l8C3LTMx91wA:1730409263798&q=racer&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J03RPjGV0MznOJ6Likin94p8FXzmjNmbQ-4rMNC3Kdp_MfCGNDf2gMtFo_xmu34b5BO1faXkOZydnALlPCXGOWugHDbKXz4py2cV9uHm3ebanoxzTMd3wEyKPywKolhmuUaz-wolR6Ah2iOXszV1lqWlwdUAWw3xiY56Rgzn9waXaTdP8A&sa=X&ved=2ahUKEwiujvDrxLmJAxXHIDQIHdBmCAIQtKgLegQIHBAB&biw=1536&bih=695&dpr=1.25#vhid=Tu3DLGZkE-n5TM&vssid=mosaic)
-
+![Us after winning hackathon:](https://images.pexels.com/photos/163210/motorcycles-race-helmets-pilots-163210.jpeg?auto=compress&cs=tinysrgb&w=600)
